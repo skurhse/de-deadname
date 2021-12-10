@@ -1,2 +1,2 @@
 # deadname
-Scripts to fix deadnames
+scripts to fix deadnames
